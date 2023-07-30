@@ -1,0 +1,36 @@
+
+body {
+  background-image: url("weather_background-image.jpg");
+  height: 1000px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin: 0;
+}
+ 
+.centerdiv{
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.box1{
+  background-color: #000;
+    color: #fff;
+    opacity: .5;
+}
+
+.box2{
+  background-color: #000;
+    color: #fff;
+    opacity: .5;
+}
+
+.box3{
+  background-color: #000;
+    color: #fff;
+    opacity: .5;
+}
